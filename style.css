@@ -1,0 +1,25 @@
+.square {
+  width: 200px;
+  height: 200px;
+}
+
+.sqfirst {
+  background-color: red;
+  position: absolute;
+  right: 855px;
+}
+
+.sqsecond {
+  background-color: blue;
+  position: absolute;
+  top: 150px;
+  left: 300px;
+  z-index: 3;
+}
+
+.sqthird {
+  background-color: green;
+  position: absolute;
+  top: 280px;
+  left: 400px;
+}
